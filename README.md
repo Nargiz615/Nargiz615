@@ -71,31 +71,15 @@ me.say_hi()
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nargiz615&theme=material-palenight"/>
 </div>
 
-### 🎀 Weekly Data Challenge
 <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"/>
 
-Each week, I take on a new data challenge! 
-Current focus: Nashville Healthcare Analytics
-- 📊 Analyzing patient outcomes
-- 📈 Creating interactive dashboards
-- 🔍 Discovering meaningful patterns
 
 ### 📚 Learning Journey
-#### Currently Reading
-- "Storytelling with Data" by Cole Nussbaumer Knaflic
-- "Python for Data Analysis" by Wes McKinney
-- "The Signal and the Noise" by Nate Silver
 
 #### Favorite Learning Resources
 - 🎓 DataCamp's Data Scientist Career Track
-- 💻 365 Data Science Platform
 - 📊 Kaggle Competitions
-- 🎥 Alex The Analyst YouTube Channel
 
-### 🧰 My Data Analysis Toolbox
-- 📊 [SQL Query Template Collection](link)
-- 📈 [Custom Python Visualization Functions](link)
-- 📱 [Power BI Dashboard Templates](link)
 
 ### 💼 Professional Background
 - **Optometric Technician/O.D. Coordinator** at Visionworks (Jul. 2022- Present)
@@ -120,10 +104,10 @@ Current focus: Nashville Healthcare Analytics
 ### 💝 Let's Connect!
 
 <div align="center">
- <a href="your-linkedin-url">
+ <a href="https://www.linkedin.com/in/nargiz-shemssulldin-a115322a3/">
    <img src="https://img.shields.io/badge/LinkedIn-%23d4639a.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
- <a href="your-tableau-url">
+ <a href="https://public.tableau.com/app/profile/nargiz.shemssulldin/vizzes">
    <img src="https://img.shields.io/badge/Tableau-%23e272a8.svg?style=for-the-badge&logo=tableau&logoColor=white"/>
  </a>
  <a href="mailto:shemssulldinnargiz@yahoo.com">

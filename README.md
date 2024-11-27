@@ -31,13 +31,13 @@
 - Enhanced model robustness by 50% using TextAttack and Python
 - Improved sentiment accuracy by 25% and reduced misclassification by 18%
 - Technologies used: Python, TextAttack, NLP libraries
-- [View Project](your-project-link)
+- [View Project](https://github.com/Hi-Im-Mo/machine-learning-adversarial-attacks)
 
 #### Healthcare Algorithmic Bias Analysis
 - Reduced outcome disparities by 22% through statistical analysis
 - Increased model precision by 17% while maintaining fairness
 - Conducted comprehensive statistical analyses to identify and mitigate biases
-- [View Project](your-project-link)
+- [View Project](https://github.com/Nargiz615/Healthcare-Bias)
 
 <div align="center">
 <a href="https://github.com/Nargiz615?tab=repositories">

@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi%2C+I'm+Nargiz!+%F0%9F%8C%B8;Data+Analyst+%F0%9F%93%8A;Healthcare+Enthusiast+%F0%9F%92%97;Problem+Solver+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,27&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Former%20Law%20Enforcement%20Professional%20turned%20Data%20Enthusiast&descAlignY=50&descAlign=57"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,27&height=200&section=header&text=Welcome%20!&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Former%20Law%20Enforcement%20Professional%20turned%20Data%20Enthusiast&descAlignY=50&descAlign=57"/>
 
 </div>
 

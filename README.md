@@ -1,36 +1,31 @@
-# 👋 Hi, I'm Nargiz Shemsulldin
-
 <div align="center">
- 
-![Data Analyst Banner](your-banner-url)
 
-## 📊 Data Analyst | Former Law Enforcement Professional | Healthcare Data Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi%2C+I'm+Nargiz!+%F0%9F%8C%B8;Data+Analyst+%F0%9F%93%8A;Healthcare+Enthusiast+%F0%9F%92%97;Problem+Solver+%E2%9C%A8)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,27&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Former%20Law%20Enforcement%20Professional%20turned%20Data%20Enthusiast&descAlignY=50&descAlign=57"/>
 
 </div>
 
-![SQL](https://img.shields.io/badge/SQL-Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-%23c6538c.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%23d4639a.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-%23e272a8.svg?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-%23f081b6.svg?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-%23ff90c4.svg?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-%23ff90c4.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker-%23ff90c4.svg?style=for-the-badge&logo=looker&logoColor=white"/>
+</div>
 
-I'm passionate about transforming data into actionable insights! With a unique background bridging law enforcement and healthcare, I bring a fresh perspective to data analysis. Currently completing my Data Analytics Boot Camp at Vanderbilt University, I combine technical expertise with strong analytical and communication skills.
+### 🌸 About Me 
+<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-### 🎯 What I'm Up To
 - 🎓 Completing Data Analytics Boot Camp at Vanderbilt University (March 2024)
-- 📊 Working on healthcare analytics projects
-- 🌱 Expanding my knowledge in advanced SQL and machine learning
-- 🔍 Exploring opportunities in data analytics
+- 💼 Former Law Enforcement Professional
+- 📊 Passionate about Healthcare Analytics
+- 🌱 Currently learning Advanced Machine Learning
+- 💕 Love turning complex data into beautiful insights
 
-### 🛠️ Technical Skills
-- **Data Analysis:** SQL (PostgreSQL), Python, R
-- **Visualization:** Power BI, Tableau, Looker
-- **Tools:** Excel, TextAttack
-- **Areas:** Statistical Analysis, Data Manipulation, NLP, Healthcare Analytics
-
-### 🚀 Featured Projects
+### ✨ Featured Projects
 
 #### Adversarial Analysis of NLP Models
 - Enhanced model robustness by 50% using TextAttack and Python
@@ -44,30 +39,46 @@ I'm passionate about transforming data into actionable insights! With a unique b
 - Conducted comprehensive statistical analyses to identify and mitigate biases
 - [View Project](your-project-link)
 
-### 📈 Data Visualizations
-#### Nashville Healthcare Insights
-<div class='tableauPlaceholder' id='viz1685000000000' style='position: relative'>
- <noscript>
-   <a href='#'>
-     <img alt='Nashville Healthcare Dashboard' src='https://public.tableau.com/static/images/placeholder.png' style='border: none' />
-   </a>
- </noscript>
- <object class='tableauViz' style='display:none;'>
-   <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-   <param name='embed_code_version' value='3' />
-   <param name='site_root' value='' />
-   <param name='name' value='YourWorkbookName/YourDashboardName' />
-   <param name='tabs' value='no' />
-   <param name='toolbar' value='yes' />
-   <param name='static_image' value='https://public.tableau.com/static/images/placeholder.png' />
-   <param name='animate_transition' value='yes' />
-   <param name='display_static_image' value='yes' />
-   <param name='display_spinner' value='yes' />
-   <param name='display_overlay' value='yes' />
-   <param name='display_count' value='yes' />
-   <param name='language' value='en-US' />
- </object>
+<div align="center">
+<a href="link-to-your-repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nargiz615&repo=YourRepoName&theme=material-palenight" />
+</a>
+<a href="link-to-your-repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nargiz615&repo=YourRepoName2&theme=material-palenight" />
+</a>
 </div>
+
+### 🌺 My Journey
+
+```python
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Nargiz Shemsulldin"
+        self.role = "Data Analyst"
+        self.skills = ["Python", "SQL", "R", "Power BI", "Tableau"]
+        self.interests = ["Healthcare Analytics", "ML", "Data Visualization"]
+        
+    def say_hi(self):
+        print("Thanks for visiting my GitHub! Let's turn data into insights together! ✨")
+
+me = DataAnalyst()
+me.say_hi()
+
+### 📈 My GitHub Journey
+
+<div align="center">
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nargiz615&show_icons=true&theme=material-palenight" alt="Nargiz's github stats" /> 
+ <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nargiz615&theme=material-palenight" alt="Nargiz's github stats" />
+</div>
+
+### 🎀 Weekly Data Challenge
+<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"/>
+
+Each week, I take on a new data challenge! 
+Current focus: Nashville Healthcare Analytics
+- 📊 Analyzing patient outcomes
+- 📈 Creating interactive dashboards
+- 🔍 Discovering meaningful patterns
 
 ### 📚 Learning Journey
 #### Currently Reading
@@ -81,69 +92,57 @@ I'm passionate about transforming data into actionable insights! With a unique b
 - 📊 Kaggle Competitions
 - 🎥 Alex The Analyst YouTube Channel
 
-### 🎯 Weekly Data Challenge
-Each week, I tackle a new data analysis challenge and share my solutions here!
-
-Current Challenge: Analyzing Nashville Restaurant Health Scores
-- Dataset: Nashville Health Department Inspections
-- Tools Used: Python, Pandas, Matplotlib
-- [View Analysis](link-to-repo)
-
 ### 🧰 My Data Analysis Toolbox
 - 📊 [SQL Query Template Collection](link)
 - 📈 [Custom Python Visualization Functions](link)
 - 📱 [Power BI Dashboard Templates](link)
 
 ### 💼 Professional Background
-- **Optometric Technician/O.D. Coordinator** at Visionworks
+- **Optometric Technician/O.D. Coordinator** at Visionworks (Jul. 2022- Present)
  - Analyzed patient metrics with Power BI and SQL, improving data accuracy by 20%
  - Led data-driven workshops boosting client retention by 35%
+ - Conducted patient pre-tests and performed glaucoma and retinal scans for 500+ patients monthly
+ - Educated patients on contact lens options, increasing retention by 22%
 
-- **Police Officer Trainee** at Metropolitan Nashville Police Department
+- **Police Officer Trainee** at Metropolitan Nashville Police Department (Jun. 2020- Jul. 2022)
  - Managed and analyzed high-priority data across multiple databases
  - Improved process efficiency by 20% while maintaining 95% satisfaction rate
+ - Processed warrants via Arms and NCIC databases with precision
+ - Managed 50+ high-priority calls per shift
 
-### 🌟 Achievements
+### 🌟 Achievements & Education
 - Chief's commendation for administering CPR (MNPD Training Academy)
 - Implemented digital filing system reducing processing time by 40%
+- Vanderbilt University - Data Analytics Boot Camp (March 2024)
+- Middle Tennessee State University - Bachelor of Science (May 2020)
+- Nashville State Community College - Associates of Applied Science (May 2018)
 
-### 📫 Let's Connect!
-- [LinkedIn](your-linkedin-url)
-- [GitHub](your-github-url)
-- 📍 Nashville, Tennessee
-
-### 💖 Fun Facts
-- Former law enforcement professional turned data enthusiast
-- Passionate about using data to improve healthcare outcomes
-- Love combining analytical thinking with creative problem-solving
-
----
+### 💝 Let's Connect!
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nargiz615&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nargiz615&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nargiz615&color=blueviolet)
-
+ <a href="your-linkedin-url">
+   <img src="https://img.shields.io/badge/LinkedIn-%23d4639a.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="your-tableau-url">
+   <img src="https://img.shields.io/badge/Tableau-%23e272a8.svg?style=for-the-badge&logo=tableau&logoColor=white"/>
+ </a>
+ <a href="mailto:shemssulldinnargiz@yahoo.com">
+   <img src="https://img.shields.io/badge/Email-%23ff90c4.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
 </div>
 
-<!-- Add this script at the bottom of your README -->
-<script type='text/javascript'>
- var divElement = document.getElementById('viz1685000000000');
- var vizElement = divElement.getElementsByTagName('object')[0];
- if (divElement.offsetWidth > 800) {
-   vizElement.style.width='1000px';
-   vizElement.style.height='827px';
- } else if (divElement.offsetWidth > 500) {
-   vizElement.style.width='100%';
-   vizElement.style.height='827px';
- } else {
-   vizElement.style.width='100%';
-   vizElement.style.height='727px';
- }
- var scriptElement = document.createElement('script');
- scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
- vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,27&height=100&section=footer"/>
+
+<!-- Profile Views Counter -->
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=Nargiz615&style=for-the-badge&color=ff69b4"/>
+</div>
+
+<!-- Animated Snake Grid -->
+<div align="center">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nargiz615/Nargiz615/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nargiz615/Nargiz615/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nargiz615/Nargiz615/output/github-contribution-grid-snake.svg">
+ </picture>
+</div>

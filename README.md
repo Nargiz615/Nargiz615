@@ -63,7 +63,7 @@ class DataAnalyst:
 
 me = DataAnalyst()
 me.say_hi()
-
+```
 ### 📈 My GitHub Journey
 
 <div align="center">

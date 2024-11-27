@@ -64,7 +64,7 @@ me.say_hi()
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nargiz615&theme=material-palenight"/>
 </div>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHo1bXE3Y2t0d2dtNXJ5NXd0M2Z4ZWRtb2Q0ZHZ6ZXJwYnhrNzBleCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzk3NjcwZWZkZGUyNDVjY2ZiNmM4OWE2MmJiNmM2NzRiYTBjNWQyYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46Cy1rHbQ92uuLXa/giphy.gif"/>
 
 
 ### 📚 Learning Journey

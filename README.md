@@ -67,8 +67,8 @@ me.say_hi()
 ### 📈 My GitHub Journey
 
 <div align="center">
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nargiz615&show_icons=true&theme=material-palenight" alt="Nargiz's github stats" /> 
- <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nargiz615&theme=material-palenight" alt="Nargiz's github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nargiz615&show_icons=true&theme=material-palenight"/>
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nargiz615&theme=material-palenight"/>
 </div>
 
 ### 🎀 Weekly Data Challenge

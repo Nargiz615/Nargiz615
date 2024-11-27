@@ -39,14 +39,7 @@
 - Conducted comprehensive statistical analyses to identify and mitigate biases
 - [View Project](https://github.com/Nargiz615/Healthcare-Bias)
 
-<div align="center">
-<a href="https://github.com/Nargiz615?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nargiz615&repo=YourRepoName&theme=material-palenight" />
-</a>
-<a href="https://github.com/Nargiz615?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nargiz615&repo=YourRepoName2&theme=material-palenight" />
-</a>
-</div>
+
 
 ### 🌺 My Journey
 
@@ -83,20 +76,19 @@ me.say_hi()
 
 ### 💼 Professional Background
 - **Optometric Technician/O.D. Coordinator** at Visionworks (Jul. 2022- Present)
- - Analyzed patient metrics with Power BI and SQL, improving data accuracy by 20%
- - Led data-driven workshops boosting client retention by 35%
+ - Analyzed patient metrics with Power BI and SQL, improving data accuracy
+ - Led data-driven workshops boosting client retention
  - Conducted patient pre-tests and performed glaucoma and retinal scans for 500+ patients monthly
- - Educated patients on contact lens options, increasing retention by 22%
+ - Educated patients on contact lens options, increasing retention
 
 - **Police Officer Trainee** at Metropolitan Nashville Police Department (Jun. 2020- Jul. 2022)
  - Managed and analyzed high-priority data across multiple databases
- - Improved process efficiency by 20% while maintaining 95% satisfaction rate
+ - Improved process efficiency while maintaining a high satisfaction rate
  - Processed warrants via Arms and NCIC databases with precision
  - Managed 50+ high-priority calls per shift
 
 ### 🌟 Achievements & Education
 - Chief's commendation for administering CPR (MNPD Training Academy)
-- Implemented digital filing system reducing processing time by 40%
 - Vanderbilt University - Data Analytics Boot Camp (March 2024)
 - Middle Tennessee State University - Bachelor of Science (May 2020)
 - Nashville State Community College - Associates of Applied Science (May 2018)

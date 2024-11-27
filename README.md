@@ -70,7 +70,7 @@ me.say_hi()
 ### 📚 Learning Journey
 
 #### Favorite Learning Resources
-- 🎓 DataCamp's Data Scientist Career Track
+- 🎓 DataCamp
 - 📊 Kaggle Competitions
 
 

@@ -40,10 +40,10 @@
 - [View Project](your-project-link)
 
 <div align="center">
-<a href="link-to-your-repo">
+<a href="https://github.com/Nargiz615?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nargiz615&repo=YourRepoName&theme=material-palenight" />
 </a>
-<a href="link-to-your-repo">
+<a href="https://github.com/Nargiz615?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nargiz615&repo=YourRepoName2&theme=material-palenight" />
 </a>
 </div>

@@ -122,3 +122,7 @@ me.say_hi()
    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nargiz615/Nargiz615/output/github-contribution-grid-snake.svg">
  </picture>
 </div>
+
+
+### I hate my Life
+

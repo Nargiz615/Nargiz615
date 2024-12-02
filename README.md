@@ -86,8 +86,14 @@ me.say_hi()
  - Improved process efficiency while maintaining a high satisfaction rate
  - Processed warrants via Arms and NCIC databases with precision
  - Managed 50+ high-priority calls per shift
+ 
+- **Student Intern** at Metropolitan Nashville Police Department (Jan. 2020- May. 2020)
+ - Efficiently handled 50+ daily calls, ensuring rapid information processing
+ - Implemented a digital filing system, reducing processing time, enhancing accuracy, and accelerating patient transfers
+ - Verified active warrants, demonstrating investigative proficiency
 
-### 🌟 Achievements & Education
+
+ - ### 🌟 Achievements & Education
 - Chief's commendation for administering CPR (MNPD Training Academy)
 - Vanderbilt University - Data Analytics Boot Camp (March 2024)
 - Middle Tennessee State University - Bachelor of Science (May 2020)

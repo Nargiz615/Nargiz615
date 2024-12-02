@@ -75,19 +75,19 @@ me.say_hi()
 
 
 ### 💼 Professional Background
-- **Optometric Technician/O.D. Coordinator** at Visionworks (Jul. 2022- Present)
+ ### Optometric Technician/O.D. Coordinator at Visionworks (Jul. 2022- Present)
  - Analyzed patient metrics with Power BI and SQL, improving data accuracy
  - Led data-driven workshops boosting client retention
  - Conducted patient pre-tests and performed glaucoma and retinal scans for 500+ patients monthly
  - Educated patients on contact lens options, increasing retention
 
-- **Police Officer Trainee** at Metropolitan Nashville Police Department (Jun. 2020- Jul. 2022)
+ ### Police Officer Trainee at Metropolitan Nashville Police Department (Jun. 2020- Jul. 2022)
  - Managed and analyzed high-priority data across multiple databases
  - Improved process efficiency while maintaining a high satisfaction rate
  - Processed warrants via Arms and NCIC databases with precision
  - Managed 50+ high-priority calls per shift
  
-- **Student Intern** at Metropolitan Nashville Police Department (Jan. 2020- May. 2020)
+  ### Student Intern at Metropolitan Nashville Police Department (Jan. 2020- May. 2020)
  - Efficiently handled 50+ daily calls, ensuring rapid information processing
  - Implemented a digital filing system, reducing processing time, enhancing accuracy, and accelerating patient transfers
  - Verified active warrants, demonstrating investigative proficiency

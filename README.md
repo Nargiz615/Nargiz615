@@ -39,8 +39,10 @@
 - Conducted comprehensive statistical analyses to identify and mitigate biases
 - [View Project](https://github.com/Nargiz615/Healthcare-Bias)
 
-
-
+#### NYC Bike Analysis
+-Applied skills in Tableau gained during bootcamp, to develop a series of visualizations for New York City Bike Data. 
+-Created detailed charts showcasing bike locations, travel patterns, and distances, providing insights into usage trends across the city.
+[View Project](https://public.tableau.com/app/profile/nargiz.shemssulldin/vizzes)
 ### 🌺 My Journey
 
 ```python
